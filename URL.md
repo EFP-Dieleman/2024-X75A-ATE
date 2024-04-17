@@ -26,3 +26,9 @@
 - POST /index.php?produit=2&custom=wishlist&action=del
 - POST /index.php?produit=2&custom=review&action=add
 - POST /index.php?produit=2&custom=review&action=del
+
+## CATALOG
+
+- GET /index.php?page=catalog&category=45&theme=78&tag_ids=1,5,12,4,9
+- GET /index.php?page=catalog&category=&theme=&tag_ids=1,5,12,4,9
+- GET /index.php?page=catalog&category=33&theme=&tag_ids=
