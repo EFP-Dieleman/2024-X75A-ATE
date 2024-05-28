@@ -1,0 +1,7 @@
+header{
+    margin:3rem auto;
+}
+
+body > a:first-child{
+    margin:2rem 0;
+}
